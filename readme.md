@@ -1,2 +1,1 @@
-test
-adding test
+This repo is a collection of my learning notes on codepolitan
